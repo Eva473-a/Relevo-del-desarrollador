@@ -14,4 +14,4 @@
 
 # Clonar el repositorio con ```bash , git clone [URL] , cd[carpeta]
 
-# Nota: al ser una aplicación de consola, no tiene servicios hacia el exterior, por lo que no cuenta con endpoints ni necesita documentación en interfaces como Swagger o Postman.
+# Al ser una aplicación de consola, no tiene servicios hacia el exterior, por lo que no cuenta con endpoints ni necesita documentación en interfaces como Swagger o Postman.
